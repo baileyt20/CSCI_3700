@@ -1,1 +1,1 @@
-# CSCI_3700
+# Quick Start
